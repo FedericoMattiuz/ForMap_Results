@@ -38,7 +38,13 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FedericoMattiuz/ForMap_Results/blob/main/notebooks/ForMap_Demo.ipynb)
 
-The notebook runs the same 5-node ODE physics on ~1100 canyons from Milan's Centrale district (~2 min on free Colab CPU). No GPU or private code needed.
+The notebook runs the same physics-based thermal simulation on ~1100 canyons from Milan's Centrale district (~2 min on free Colab CPU). No GPU or private code needed.
+
+---
+
+## What ForMap is for
+
+ForMap is designed as the physics engine for a broader platform. The startup's core thesis is that the same simulation that maps urban heat can guide the design and assessment of urban green infrastructure — including novel infrastructure concepts currently in development — before anything is built. ForMap answers *where* a city overheats and *why*; the platform it underpins is built to answer *what to do about it*, at city scale, from open data.
 
 ---
 
