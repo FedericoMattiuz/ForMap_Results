@@ -13,6 +13,7 @@
 | [🗺 Thermal map](https://federicomattiuz.github.io/ForMap_Results/map_interactive.html) | All 244 k canyons coloured by peak air temperature |
 | [⏱ Hourly animation](https://federicomattiuz.github.io/ForMap_Results/temporal_slider.html) | Temperature snapshots across the day |
 | [📊 Canyon shading effect](https://federicomattiuz.github.io/ForMap_Results/canyon_effect.html) | Peak temperature vs canyon aspect ratio H/W |
+| [📈 ERA5 validation](https://federicomattiuz.github.io/ForMap_Results/era5_comparison.html) | ForMap vs ERA5 observed air temperature, 21 June 2022 |
 
 ---
 
@@ -20,10 +21,10 @@
 
 | Scenario | T_morning | Mean T_air_max | Canyons > 30 °C |
 |---|---|---|---|
-| Milan 2024 (recent normal) | 20.1 °C | 25.8 °C | ~4 % |
-| **2022 heatwave overnight** | **24.6 °C** | **30.2 °C** | **~50 %** |
+| Milan 2024 (recent normal) | 21.3 °C | 30.6 °C | 64.5 % |
+| **2022 heatwave overnight** | **24.6 °C** | **33.5 °C** | **91.0 %** |
 
-**×12.5 more canyons exceed 30 °C** during a heatwave.
+**+26.5 percentage points more canyons exceed 30 °C** during the heatwave (64.5 % → 91.0 %).
 
 <p align="center">
   <img src="static_maps/milan_2024.png" width="48%" alt="Milan 2024 thermal map"/>
