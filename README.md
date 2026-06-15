@@ -45,7 +45,7 @@ The notebook runs the same physics-based thermal simulation on ~1100 canyons fro
 
 ## What ForMap is for
 
-**ForMap** is the thermal mapping engine of **Forban**, a startup developing novel urban green infrastructure for climate adaptation.
+**ForMap** is the thermal mapping engine of **Forban**, a personal project aiming to found an innovative startup dedicated to develop a new concept of urban green infrastructures for climate adaptation.
 
 The thermal map is the foundation. Starting from it, ForMap is designed to compute operational parameters for urban green infrastructure — irrigation demand, intervention performance, building thermal loads — giving operators and planners a physics-based baseline instead of rules of thumb.
 
